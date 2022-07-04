@@ -1,0 +1,58 @@
+body {
+    margin: 0px;
+}
+
+table {
+    font-family: arial, sans-serif;
+    text-align: center;
+    border-collapse: collapse;
+    width: 75%;
+    margin: 130px;
+  }
+
+  table tr , .sub{
+    text-align: center;
+
+  }
+  
+  td, th {
+    border: 3px solid #eee;
+    text-align: left;
+    padding: 8px;
+  }
+
+  img {
+    float: left;
+    margin-top: -33px;
+    margin-left: 20px;
+  }
+
+ h1 {
+    color: #31b231;
+    margin-top: 50px;
+  }
+
+  header {
+    background-color: black;
+  }
+
+  .topnav {
+    float: right;
+  }
+
+  .topnav a {
+    text-decoration: none;
+    margin-right: 30px;
+    color: #31b231;
+    font-size: 20px;
+  }
+
+  footer {
+    float: right;
+    margin-right: 30px;
+  }
+
+ 
+
+  
+  
